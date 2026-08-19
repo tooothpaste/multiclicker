@@ -16,7 +16,7 @@ installer.
 - Any number of clicker cards, each with its own hotkey (toggle or hold),
   interval, and settings
 - Background clicking: a card tied to a window can click it without focusing
-  it, including Chromium apps that render into a child window
+  it
 - Per-window hotkeys: a gated card's key only fires in its window and types
   normally everywhere else
 - Left/right/middle/X1/X2 click, a custom key, or a recorded macro
