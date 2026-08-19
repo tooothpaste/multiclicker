@@ -1,0 +1,10 @@
+# Build output — ships via GitHub Releases, not the repo
+*.exe
+
+# Personal state: saved cards, profiles, recorded macros
+AutoClickerProfiles.ini
+Profiles/
+Macros/
+
+# Superseded code kept around locally
+retired/
